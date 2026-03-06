@@ -48,10 +48,10 @@ Der erweiterte generische Anforderungskatalog für ZTA+KI. Zielgruppe: Techniker
 Im Vergleich zu V1 deutlich erweitert (mehr IDs, Evidenz, Mapping-Tiefe, Changelog).
 
 ### Modul_ZTA_Teil_2.md
-Exemplarische Prüfschritte zur Verifizierung der Dynamischen Richtlinienanpassung – ausschließlich für Anforderung ZTA-01 (V2). Tabelle mit Prüfschritten (ZTA-01-001 bis -007), Beschreibung, erwartetem Ergebnis, Status, Referenz und neuer Evidenz-Spalte. Scope-Hinweis: Nur ZTA-01; weitere Anforderungen fehlen noch und müssen analog ergänzt werden.
+**Exemplarische Prüfschritte** zur Verifizierung der Dynamischen Richtlinienanpassung – ausschließlich für Anforderung ZTA-01 (V2). Tabelle mit Prüfschritten (ZTA-01-001 bis -007), Beschreibung, erwartetem Ergebnis, Status, Referenz und neuer Evidenz-Spalte. Scope-Hinweis: Nur ZTA-01; weitere Anforderungen fehlen noch und müssen analog ergänzt werden.
 
 ### Modul_ZTA_Teil_3.md
-Detaillierte attributbasierte Verifikation der Kontextdatenerfassung – ausschließlich für Prüfschritt ZTA-01-001 (V2). Tabelle mit Verifikationspunkten (ZTA-01-001-01 bis -07) für User-Identität, Geräteintegrität, Netzwerk, OT-Prozesszustand, Verhalten usw., inkl. Evidenz-Spalte. Scope-Hinweis: Nur ZTA-01-001; weitere Prüfschritte und Anforderungen fehlen und müssen ergänzt werden.
+Detaillierte **exemplarische** und attributbasierte Verifikation der Kontextdatenerfassung – ausschließlich für Prüfschritt ZTA-01-001 (V2). Tabelle mit Verifikationspunkten (ZTA-01-001-01 bis -07) für User-Identität, Geräteintegrität, Netzwerk, OT-Prozesszustand, Verhalten usw., inkl. Evidenz-Spalte. Scope-Hinweis: Nur ZTA-01-001; **weitere Prüfschritte und Anforderungen fehlen und müssen ergänzt werden**.
 
 
 
