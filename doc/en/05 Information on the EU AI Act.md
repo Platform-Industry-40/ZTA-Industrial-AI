@@ -1,1 +1,1 @@
-# 5 Information on the EU AI Act.md
+# 5 Information on the EU AI Act
