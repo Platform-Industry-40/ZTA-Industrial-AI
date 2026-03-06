@@ -1,1 +1,1 @@
-# 3 Geopolitical Framework for Industrial Users.md
+# 3 Geopolitical Framework for Industrial Users
