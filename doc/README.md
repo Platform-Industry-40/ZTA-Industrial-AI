@@ -144,3 +144,14 @@ doc/
         └── img/                  # Images
 
 ```
+
+
+Die Kapitelstruktur ist zwischen beiden Sprachversionen abgestimmt, mit entsprechend übersetzten Dateinamen.
+
+Derzeit enthalten die Dokumente hauptsächlich **Kapitelstrukturen ohne vollständigen Text**. Inhalte werden fortlaufend ergänzt.
+
+→ Haupteinstieg (Deutsch):  
+   [de/README.md](de/README.md)
+
+→ Haupteinstieg (Englisch):  
+   [en/README.md](en/README.md)
