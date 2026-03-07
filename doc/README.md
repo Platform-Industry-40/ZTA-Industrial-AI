@@ -67,8 +67,32 @@ doc/
 │   │   │   ├── html/             # HTML outputs
 │   │   │   └── pdf/              # PDF outputs
 │   │   └── Anhang 2/             # Appendix 2
-
-```
 │   │       └── README.md         # Readme
 │   └── res/                      # Resources
+
+```
+
+
+The chapter structure is harmonized between both language versions, with file names translated accordingly.
+
+Currently, the documents mainly contain **chapter skeletons and structures without full text**. Content is being added continuously.
+
+→ Main entry point (German):  
+   [doc/de/README.md](doc/de/README.md)
+
+→ Main entry point (English):  
+   [doc/en/README.md](doc/en/README.md)
+
+---
+
+# ZTA Industrial AI – Dokumentationsübersicht
+
+[![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-green?style=flat-square)](https://github.com/Platform-Industry-40/ZTA-Industrial-AI/blob/main/README.md)
+
+Dieses Repository enthält die wachsende Dokumentation zum Projekt **ZTA Industrial AI** (Zero-Trust-Architektur für industrielle KI-Systeme).
+
+Die vollständige Projektdokumentation liegt im Ordner `/doc` und wird zweisprachig (Deutsch + Englisch) gepflegt.
+
+## Aktuelle Dokumentstruktur (Stand 07. März 2026)
+
 │       └── img/                  # Images
