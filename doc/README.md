@@ -11,7 +11,7 @@ The complete project documentation is located in the `/doc` folder and is mainta
 ```
 
 doc/
-└── en/                           # English Documentation
+├── en/                           # English Documentation
 │   ├── README.md                 # Main entry point (overview, navigation)
 │   ├── 01 Introduction.md        # Introduction
 │   ├── 02 Progress and Developments 2024,2025.md  # Progress and Developments 2024,2025
