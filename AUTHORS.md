@@ -7,4 +7,4 @@
 - [Dr. Bernd Kosch](bernd.kosch@industrie-ki.de), Industrie KI GmbH, Chair
 - [Dr. Detlef Houdeau](), Infinion
 - [Dr. Michael Schmitt](m.schmitt@sap.com), SAP, GPR
-- [Thomas Walloschke](thomas.walloschke@secon-tc.eu), secon trust consult
+- [Thomas Walloschke](mailto:thomas.walloschke@secon-tc.eu), secon trust consult
