@@ -34,41 +34,34 @@ doc/
 │   └── res/                      # Resources
 │       └── img/                  # Images
 │
-├── de/                           # German Documentation (see below)
-    │
-
-```
-
-```
-
-├── de/                           # German Documentation
-│   ├── README.md                 # Main entry point (overview, navigation)
-│   ├── 01 Einleitung.md          # Introduction
-│   ├── 02 Fortschritte und Entwicklungen 2024,2025.md  # Progress and Developments 2024,2025
-│   ├── 03 Geopolitische Randbedingungen für industrielle Anwender.md  # Geopolitical Framework for Industrial Users
-│   ├── 04 Industrie 40 Kontext.md  # Industry 4.0 Context
-│   ├── 05 Informationen zum AI-Act der EU.md  # Information on the EU AI Act
-│   ├── 06 Durchführung und Ergebnisse eines Proof of Concept für ausgewählte Use Cases.md  # Implementation and Results of a Proof of Concept for Selected Use Cases
-│   ├── 07 Ausblick und Handlungsempfehlungen .md  # Outlook and Recommendations for Action
-│   ├── 08 Anhang 1 Detaillierte Umsetzungs- und Evaluierungsstruktur (Referenz-Repository).md  # Appendix 1 Detailed Implementation and Evaluation Structure (Reference Repository)
-│   ├── 09 Anhang 2 Forschungsergebnisse.md  # Appendix 2 Research Results
-│   ├── 10 Verweise.md            # References
-│   ├── 11 Glossar.md             # Glossary
-│   ├── apx/                      # Appendix / Attachments
-│   │   ├── README.md             # Appendix overview
-│   │   ├── Anhang 1/             # Appendix 1
-│   │   │   ├── Data-_und_AI-Governance.md  # Data and AI Governance
-│   │   │   ├── Modul_ZTA_Teil_1.md  # ZTA Module Part 1
-│   │   │   ├── Modul_ZTA_Teil_2.md  # ZTA Module Part 2
-│   │   │   ├── Modul_ZTA_Teil_3.md  # ZTA Module Part 3
-│   │   │   ├── Policy.md         # Policy
-│   │   │   ├── README.md         # Readme
-│   │   │   ├── SoA.md            # State of the Art
-│   │   │   ├── html/             # HTML outputs
-│   │   │   └── pdf/              # PDF outputs
-│   │   └── Anhang 2/             # Appendix 2
-│   │       └── README.md         # Readme
-│   └── res/                      # Resources
+└── de/                           # German Documentation (see below)
+    ├── README.md                 # Main entry point (overview, navigation)
+    ├── 01 Einleitung.md          # Introduction
+    ├── 02 Fortschritte und Entwicklungen 2024,2025.md  # Progress and Developments 2024,2025
+    ├── 03 Geopolitische Randbedingungen für industrielle Anwender.md  # Geopolitical Framework for Industrial Users
+    ├── 04 Industrie 40 Kontext.md  # Industry 4.0 Context
+    ├── 05 Informationen zum AI-Act der EU.md  # Information on the EU AI Act
+    ├── 06 Durchführung und Ergebnisse eines Proof of Concept für ausgewählte Use Cases.md  # Implementation and Results of a Proof of Concept for Selected Use Cases
+    ├── 07 Ausblick und Handlungsempfehlungen .md  # Outlook and Recommendations for Action
+    ├── 08 Anhang 1 Detaillierte Umsetzungs- und Evaluierungsstruktur (Referenz-Repository).md  # Appendix 1 Detailed Implementation and Evaluation Structure (Reference Repository)
+    ├── 09 Anhang 2 Forschungsergebnisse.md  # Appendix 2 Research Results
+    ├── 10 Verweise.md            # References
+    ├── 11 Glossar.md             # Glossary
+    ├── apx/                      # Appendix / Attachments
+    │   ├── README.md             # Appendix overview
+    │   ├── Anhang 1/             # Appendix 1
+    │   │   ├── Data-_und_AI-Governance.md  # Data and AI Governance
+    │   │   ├── Modul_ZTA_Teil_1.md  # ZTA Module Part 1
+    │   │   ├── Modul_ZTA_Teil_2.md  # ZTA Module Part 2
+    │   │   ├── Modul_ZTA_Teil_3.md  # ZTA Module Part 3
+    │   │   ├── Policy.md         # Policy
+    │   │   ├── README.md         # Readme
+    │   │   ├── SoA.md            # State of the Art
+    │   │   ├── html/             # HTML outputs
+    │   │   └── pdf/              # PDF outputs
+    │   └── Anhang 2/             # Appendix 2
+    │       └── README.md         # Readme
+    └── res/                      # Resources
 
 ```
 
