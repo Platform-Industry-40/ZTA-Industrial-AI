@@ -120,26 +120,27 @@ doc/
 │   │       └── README.md         # Readme
 │   └── res/                      # Ressourcen
 │       └── img/                  # Bilder
+│ 
 └── en/                           # Englische Dokumentation
-├── README.md                 # Main entry point (overview, navigation)
-├── 01 Introduction.md        # Introduction
-├── 02 Progress and Developments 2024,2025.md  # Progress and Developments 2024,2025
-├── 03 Geopolitical Framework for Industrial Users.md  # Geopolitical Framework for Industrial Users
-├── 04 Industry 40 Context.md  # Industry 4.0 Context
-├── 05 Information on the EU AI Act.md  # Information on the EU AI Act
-├── 06 Implementation and Results of a Proof of Concept for Selected Use Cases.md  # Implementation and Results of a Proof of Concept for Selected Use Cases
-├── 07 Outlook and Recommendations or Action.md  # Outlook and Recommendations or Action
-├── 08 Annex 1 Detailed Implementation and Evaluation Structure Reference Repository.md  # Annex 1 Detailed Implementation and Evaluation Structure Reference Repository
-├── 09 Annex 2 Research Results.md  # Annex 2 Research Results
-├── 10 References.md          # References
-├── 11 Glossary.md            # Glossary
-├── apx/                      # Appendix / Attachments
-│   ├── README.md             # Appendix overview
-│   ├── Appendix 1/           # Appendix 1
-│   │   └── x                 # Platzhalter
-│   └── Appendix 2/           # Appendix 2
-│       └── x                 # Platzhalter
-└── res/                      # Resources
-└── img/                  # Images
+    ├── README.md                 # Main entry point (overview, navigation)
+    ├── 01 Introduction.md        # Introduction
+    ├── 02 Progress and Developments 2024,2025.md  # Progress and Developments 2024,2025
+    ├── 03 Geopolitical Framework for Industrial Users.md  # Geopolitical Framework for Industrial Users
+    ├── 04 Industry 40 Context.md  # Industry 4.0 Context
+    ├── 05 Information on the EU AI Act.md  # Information on the EU AI Act
+    ├── 06 Implementation and Results of a Proof of Concept for Selected Use Cases.md  # Implementation and Results of a Proof of Concept for Selected Use Cases
+    ├── 07 Outlook and Recommendations or Action.md  # Outlook and Recommendations or Action
+    ├── 08 Annex 1 Detailed Implementation and Evaluation Structure Reference Repository.md  # Annex 1 Detailed Implementation and Evaluation Structure Reference Repository
+    ├── 09 Annex 2 Research Results.md  # Annex 2 Research Results
+    ├── 10 References.md          # References
+    ├── 11 Glossary.md            # Glossary
+    ├── apx/                      # Appendix / Attachments
+    │   ├── README.md             # Appendix overview
+    │   ├── Appendix 1/           # Appendix 1
+    │   │   └── x                 # Platzhalter
+    │   └── Appendix 2/           # Appendix 2
+    │       └── x                 # Platzhalter
+    └── res/                      # Resources
+        └── img/                  # Images
 
 ```
