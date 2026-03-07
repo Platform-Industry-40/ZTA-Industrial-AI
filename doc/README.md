@@ -1,6 +1,7 @@
 # ZTA Industrial AI – Documentation Overview
 
 [![English](https://img.shields.io/badge/language-English-blue?style=flat-square)](https://github.com/Platform-Industry-40/ZTA-Industrial-AI/blob/main/README.md)
+[![Release](https://img.shields.io/badge/release-WORK%20IN%20PROGRESS-pink?style=flat-square)](https://github.com/Platform-Industry-40/ZTA-Industrial-AI)
 
 This repository contains the evolving documentation for the **ZTA Industrial AI** project (Zero-Trust Architecture for Industrial AI systems).
 
@@ -82,6 +83,7 @@ Currently, the documents mainly contain **chapter skeletons and structures witho
 # ZTA Industrial AI – Dokumentationsübersicht
 
 [![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-green?style=flat-square)](https://github.com/Platform-Industry-40/ZTA-Industrial-AI/blob/main/README.md)
+[![Release](https://img.shields.io/badge/release-WORK%20IN%20PROGRESS-pink?style=flat-square)](https://github.com/Platform-Industry-40/ZTA-Industrial-AI)
 
 Dieses Repository enthält die wachsende Dokumentation zum Projekt **ZTA Industrial AI** (Zero-Trust-Architektur für industrielle KI-Systeme).
 
