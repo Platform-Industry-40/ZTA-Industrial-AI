@@ -1,5 +1,8 @@
 # Authors
 
+## Working group on “Security of collaborative ecosystems”
+
+
 
 - Dr. Bernd Kosch, Industrie KI GmbH, Chair
 - Dr. Detlef Houdeau, Infinion
