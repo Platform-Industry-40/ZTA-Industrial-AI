@@ -77,11 +77,12 @@ The chapter structure is harmonized between both language versions, with file na
 
 Currently, the documents mainly contain **chapter skeletons and structures without full text**. Content is being added continuously.
 
-→ Main entry point (German):  
-   [doc/de/README.md](doc/de/README.md)
-
 → Main entry point (English):  
-   [doc/en/README.md](doc/en/README.md)
+   [en/README.md](en/README.md)
+
+→ Main entry point (German):  
+   [de/README.md](de/README.md)
+
 
 ---
 
