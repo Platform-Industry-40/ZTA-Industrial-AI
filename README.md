@@ -6,7 +6,7 @@
 **Zero-Trust Architecture for Industrial AI Systems**  
 **Zero-Trust-Architektur für industrielle KI-Systeme**
 
-![Title Page / Titelblatt](res/title-page.png)  
+![Title Page / Titelblatt](res/3409155e-7d1a-4279-813b-920b59c0d7aa.jpg)  
 *(Placeholder – replace with the actual path to your embedded PDF title page image, e.g. res/pdf-cover.jpg or res/titelblatt.png)*
 
 **WORK-IN-PROGRESS** – The project is under active development. Documentation is being continuously expanded.
