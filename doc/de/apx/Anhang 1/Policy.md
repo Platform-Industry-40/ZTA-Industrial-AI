@@ -1,6 +1,6 @@
 # Policy zum Einsatz von Zero Trust Architektur (ZTA) mit Künstlicher Intelligenz (KI) in Industrie 4.0
 
-[<image-card alt="Template" src="https://img.shields.io/badge/Template-blue" ></image-card>](https://github.com/artkeller/NOC-Ultra-Smart-Panel/generate)
+**TEMPLATE**
 
 ## Version, Stand und Genehmigung
 
