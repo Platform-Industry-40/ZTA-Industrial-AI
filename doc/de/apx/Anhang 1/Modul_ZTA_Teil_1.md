@@ -1,6 +1,6 @@
 # Modul ZTA Teil 1
 
-**TEMPLATE**
+[![Template](https://img.shields.io/badge/Template-Ready-success?style=for-the-badge&logo=github)](https://github.com/artkeller/NOC-Ultra-Smart-Panel/generate)
 
 Audit-fähiger, exemplarischer, generischer Anforderungskatalog
 
