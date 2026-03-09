@@ -1,6 +1,6 @@
 # Data- und AI-Governance-Rahmenwerk für Zero Trust Architektur (ZTA) mit Künstlicher Intelligenz (KI) in der Industrie 4.0
 
-**TEMPLATE**
+[![Template](https://img.shields.io/badge/Template-Ready-success?style=for-the-badge&logo=github)](https://github.com/artkeller/NOC-Ultra-Smart-Panel/generate)
 
 ## Version, Stand und Genehmigung
 
