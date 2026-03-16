@@ -36,7 +36,10 @@ The core document and project are authored by the following individuals (see als
   Email: bernd.kosch@industrie-ki.de  
 
 - **Dr. Detlef Houdeau**  
-  Affiliation: Infinion  
+  Affiliation: Infinion
+
+- **Michael Jochem**  
+  Affiliation: Bosch   
 
 - **Dr. Michael Schmitt**  
   Affiliation: SAP, GRC  
@@ -96,7 +99,10 @@ Das Kerndokument und das Projekt werden von den folgenden Personen verfasst (sie
   E-Mail: bernd.kosch@industrie-ki.de  
 
 - **Dr. Detlef Houdeau**  
-  Affiliation: Infinion  
+  Affiliation: Infinion
+
+- **Michael Jochem**  
+  Affiliation: Bosch   
 
 - **Dr. Michael Schmitt**  
   Affiliation: SAP, GRC  
