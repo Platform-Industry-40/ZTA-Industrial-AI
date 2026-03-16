@@ -43,7 +43,10 @@ Diese Datei listet die Kernautoren des ZTA Industrial AI-Projekts und seiner Sch
   E-Mail: [bernd.kosch@industrie-ki.de](mailto:bernd.kosch@industrie-ki.de)  
 
 - **Dr. Detlef Houdeau**  
-  Affiliation: Infineon  
+  Affiliation: Infineon
+
+- **Michael Jochem**  
+  Affiliation: Bosch   
 
 - **Dr. Michael Schmitt**  
   Affiliation: SAP, GRC  
