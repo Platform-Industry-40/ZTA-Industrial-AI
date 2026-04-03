@@ -1,8 +1,6 @@
 # 8	Anhang 1: Detaillierte Umsetzungs- und Evaluierungsstruktur (Referenz-Repository)
 
-Die vollständige, auditierbare und aktuell gepflegte Dokumentation zur Implementierung einer **Zero Trust Architektur (ZTA) mit KI-Assistenz** im Industrie-4.0-Kontext liegt im öffentlichen GitHub-Repository:
-
-[**Anhang 1**](https://github.com/Platform-Industry-40/ZTA-Industrial-AI/tree/main/doc/de/apx/Anhang%201/README.md) (Stand: April 2026)
+Die vollständige, auditierbare und aktuell gepflegte Dokumentation zur Implementierung einer **Zero Trust Architektur (ZTA) mit KI-Assistenz** im Industrie-4.0-Kontext liegt im öffentlichen GitHub-Repository [**Anhang 1**](https://github.com/Platform-Industry-40/ZTA-Industrial-AI/tree/main/doc/de/apx/Anhang%201/README.md) (Stand: April 2026)
 
 Dieses Repository enthält alle relevanten Dokumente in Markdown-Format, inklusive interaktiver Diagramme (Mermaid), vollständiger Tabellen, Evidenz-Nachweisen und Versionshistorie. Es dient als lebendige Ergänzung zu diesem Word-Dokument und wird fortlaufend aktualisiert.
 
