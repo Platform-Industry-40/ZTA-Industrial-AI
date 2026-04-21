@@ -29,25 +29,7 @@ If you wish to propose changes:
 
 ## Core Authors and Team
 
-The core document and project are authored by the following individuals (see also [AUTHORS.md](./AUTHORS.md) for the full list):
-
-- **Dr. Bernd Kosch**  
-  Affiliation: Industrie KI GmbH (Chair)  
-  Email: bernd.kosch@industrie-ki.de  
-
-- **Dr. Detlef Houdeau**  
-  Affiliation: Infinion
-
-- **Michael Jochem**  
-  Affiliation: Bosch   
-
-- **Dr. Michael Schmitt**  
-  Affiliation: SAP, GRC  
-  Email: m.schmitt@sap.com  
-
-- **Thomas Walloschke**  
-  Affiliation: secon trust consult  
-  Email: thomas.walloschke@secon-tc.eu  
+The core document and project are authored by the following individuals (see [AUTHORS.md](./AUTHORS.md) for the full list).
 
 Additionally:
 - **Dr. Christian Krug**  
@@ -92,25 +74,7 @@ Falls Sie Änderungen vorschlagen möchten:
 
 ## Kernautoren und Team
 
-Das Kerndokument und das Projekt werden von den folgenden Personen verfasst (siehe auch [AUTHORS.md](./AUTHORS.md) für die vollständige Liste):
-
-- **Dr. Bernd Kosch**  
-  Affiliation: Industrie KI GmbH (Chair)  
-  E-Mail: bernd.kosch@industrie-ki.de  
-
-- **Dr. Detlef Houdeau**  
-  Affiliation: Infinion
-
-- **Michael Jochem**  
-  Affiliation: Bosch   
-
-- **Dr. Michael Schmitt**  
-  Affiliation: SAP, GRC  
-  E-Mail: m.schmitt@sap.com  
-
-- **Thomas Walloschke**  
-  Affiliation: secon trust consult  
-  E-Mail: thomas.walloschke@secon-tc.eu  
+Das Kerndokument und das Projekt werden von den folgenden Personen verfasst (siehe [AUTHORS.md](./AUTHORS.md) für die vollständige Liste).
 
 Zusätzlich:
 - **Dr. Christian Krug**  
