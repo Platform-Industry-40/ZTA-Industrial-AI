@@ -6,7 +6,7 @@
 **Zero-Trust Architecture for Industrial AI Systems**  
 **Zero-Trust-Architektur für industrielle KI-Systeme**
 
-![Title Page / Titelblatt](res/3409155e-7d1a-4279-813b-920b59c0d7aa.jpg)  
+![Title Page / Titelblatt](./assets/img/3409155e-7d1a-4279-813b-920b59c0d7aa.jpg)  
 *(Placeholder – will be replaced by the actual cover image of the PDF)*
 
 **WORK-IN-PROGRESS** – The project is under active development. Documentation is being continuously expanded.
@@ -40,7 +40,7 @@ The list of authors and contributors is maintained in
 **Zero-Trust Architecture for Industrial AI Systems**  
 **Zero-Trust-Architektur für industrielle KI-Systeme**
 
-![Titelblatt / Title Page](res/6250d19c-3a78-4708-8704-74900f903bd1.jpg)  
+![Titelblatt / Title Page](./assets/img//6250d19c-3a78-4708-8704-74900f903bd1.jpg)  
 *(Platzhalter – wird durch reales Titelblatt-Bild des PDFs ersetzt)*
 
 **WORK-IN-PROGRESS** – Das Projekt befindet sich im Aufbau. Die Dokumentation wird fortlaufend erweitert.
