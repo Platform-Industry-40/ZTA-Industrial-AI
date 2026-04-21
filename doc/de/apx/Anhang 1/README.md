@@ -11,22 +11,22 @@ Die Dokumente sind für C-Level, Legal, CISO, Auditoren und Implementierer konzi
 Die Dateien sind thematisch gegliedert:
 
 - **Compliance / Governance**  
-  - [Data-_und_AI-Governance.md](Data-_und_AI-Governance.md)
-  - [Data-_und_AI-Governance.pdf](https://artkeller.github.io/ZTA+KI_2026/Data-_und_AI-Governance.pdf)
-  - [Data-_und_AI-Governance.html](https://artkeller.github.io/ZTA+KI_2026/Data-_und_AI-Governance.html)
+  - [Data-_und_AI-Governance.md](./Data-_und_AI-Governance.md)
+  - [Data-_und_AI-Governance.pdf](./pdf/Data-_und_AI-Governance.pdf)
+  - [Data-_und_AI-Governance.html](./html/Data-_und_AI-Governance.html)
 
 - **Policies**  
-  - [Policy.md](Policy.md)
-  - [Policy.pdf](https://artkeller.github.io/ZTA+KI_2026/Policy.pdf)
+  - [Policy.md](./Policy.md)
+  - [Policy.pdf](./pdf/Policy.pdf)
   - [Policy.html](https://artkeller.github.io/ZTA+KI_2026/Policy.html)
 
 - **Modules ZTA 1–3**  
-  - [Modul_ZTA_Teil_1.md](Modul_ZTA_Teil_1.md)  
-  - [Modul_ZTA_Teil_2.md](Modul_ZTA_Teil_2.md)  
-  - [Modul_ZTA_Teil_3.md](Modul_ZTA_Teil_3.md)
+  - [Modul_ZTA_Teil_1.md](./Modul_ZTA_Teil_1.md)  
+  - [Modul_ZTA_Teil_2.md](./Modul_ZTA_Teil_2.md)  
+  - [Modul_ZTA_Teil_3.md](./Modul_ZTA_Teil_3.md)
 
 - **SoA (Statement of Applicability)**  
-  - [SoA.md](SoA.md)
+  - [SoA.md](./SoA.md)
 
 ## Erklärung der einzelnen Files
 
