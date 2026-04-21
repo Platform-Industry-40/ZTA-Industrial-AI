@@ -15,7 +15,8 @@ This file lists the core authors of the ZTA Industrial AI project and its key do
   Affiliation: Infineon
 
 - **Michael Jochem**  
-  Affiliation: Bosch   
+  Affiliation: Bosch
+  Email: [Michael.Jochem@de.bosch.com](mailto:Michael.Jochem@de.bosch.com)  
 
 - **Dr. Michael Schmitt**  
   Affiliation: SAP, GRC  
