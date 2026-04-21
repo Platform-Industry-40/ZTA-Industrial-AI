@@ -1,6 +1,6 @@
 # Modul ZTA Teil 3
 
-[![Template](https://img.shields.io/badge/Template-Ready-success?style=for-the-badge&logo=github)](https://github.com/artkeller/NOC-Ultra-Smart-Panel/generate)
+[![Template](https://img.shields.io/badge/Template-Ready-success?style=for-the-badge&logo=github)](./Modul_ZTA_Teil_3.md)
 
 Detaillierte Verifikation der Kontextdatenerfassung (ZTA-01-001)
 
