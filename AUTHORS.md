@@ -39,8 +39,8 @@ Diese Datei listet die Kernautoren des ZTA Industrial AI-Projekts und seiner Sch
 
 ## Kernautoren
 
-- **Dr. Bernd Kosch**  
-  Affiliation: Industrie KI GmbH (Vorsitz)  
+- **Dr. Bernd Kosch** (Vorsitz)  
+  Affiliation: Industrie KI GmbH     
   E-Mail: [bernd.kosch@industrie-ki.de](mailto:bernd.kosch@industrie-ki.de)  
 
 - **Dr. Detlef Houdeau**  
