@@ -1,6 +1,6 @@
 # 8	Anhang 1: Compliance-Dokumentation ZTA+KI (Referenz-Repository)
 
-Die vollständige, auditierbare Compliance-Dokumentation zur Implementierung einer **Zero Trust Architektur (ZTA) mit KI-Assistenz** im Industrie-4.0-Kontext liegt im öffentlichen GitHub-Repository unter [**Anhang 1**](https://github.com/artkeller/Plattform_Industrie_4.0/tree/main/ZTA%2BKI_2026/doc/de/apx/Anhang%201) (Stand: April 2026). Die Dokumente liegen im Markdown-Format vor, inklusive interaktiver Diagramme (Mermaid), vollständiger Tabellen, Evidenz-Nachweisen und Versionshistorie.
+Die vollständige, auditierbare Compliance-Dokumentation zur Implementierung einer **Zero Trust Architektur (ZTA) mit KI-Assistenz** im Industrie-4.0-Kontext liegt im öffentlichen GitHub-Repository unter [**Anhang 1**](Platform-Industry-40/ZTA-Industrial-AI/edit/main/doc/de/doc/de/apx/Anhang%201) (Stand: April 2026). Die Dokumente liegen im Markdown-Format vor, inklusive interaktiver Diagramme (Mermaid), vollständiger Tabellen, Evidenz-Nachweisen und Versionshistorie.
 
 ## 8.1 Dreistufige Struktur – Warum, Was, Wie
 
