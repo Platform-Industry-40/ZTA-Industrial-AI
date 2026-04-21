@@ -1,4 +1,4 @@
-## **Titel des Abstracts**  
+## **Titel**  
 Standardisierte Sicherheits- und Compliance-Dokumentation von KI-Modellen gemäß EU AI Act für den Einsatz in Industrie 4.0 und Zero Trust Umgebungen
 
 ## **Abstract**  
