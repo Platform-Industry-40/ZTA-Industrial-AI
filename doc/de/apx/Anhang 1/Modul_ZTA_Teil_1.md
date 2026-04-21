@@ -1,6 +1,6 @@
 # Modul ZTA Teil 1
 
-[![Template](https://img.shields.io/badge/Template-Ready-success?style=for-the-badge&logo=github)](./)
+[![Template](https://img.shields.io/badge/Template-Ready-success?style=for-the-badge&logo=github)](./Modul_ZTA_Teil_1.md)
 
 Audit-fähiger, exemplarischer, generischer Anforderungskatalog
 
