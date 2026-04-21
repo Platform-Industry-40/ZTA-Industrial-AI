@@ -41,75 +41,41 @@
 
 #3 Deepseek ohne online access
 {
-
   "ObjectName": "BAPI_USER_GET_DETAIL",
-
   "SystemType": "SAP ABAP Server",
-
   "ObjectKnown": true,
-
   "Sourcing": 1,
-
   "CriticalityScore": 7,
-
   "CriticalityReason": "This function module can expose sensitive user details such as user IDs, roles, profiles, and personal data without proper authorization checks, leading to information disclosure, user enumeration, and potential social engineering attacks or further exploitation in privilege escalation.",
-
   "Recommendation": "Implement strict authorization checks (e.g., using S_USER_AGR or similar authority checks) before invoking this function module, restrict its usage to backend processes, and avoid exposing it in external-facing applications. Regularly audit and monitor access to this BAPI.",
-
   "ReplacementObject": "",
-
   "OtherInformation": "BAPI_USER_GET_DETAIL is often used in custom code for user management; ensure code reviews and penetration testing include checks for insecure usage. Consider using more secure alternatives like FMs with built-in authorization or SAP's user management frameworks where possible.",
-
   "SourceOfEvidence": "SAP Help Portal, Common SAP Security Guidelines and Best Practices",
-
   "LLM_Name": "ChatGPT Version 4",
-
   "LLM_Version": "4",
-
   "OnlineResearchTimestamp": "",
-
   "TrainingTimeStamp": "2021-09-01T00:00:00Z",
-
   "AnswerTimeStamp": "2024-06-12T10:30:00Z",
-
   "QueryTimeStamp": "2024-06-12T10:30:00Z"
-
 }
 
 
 #4 Deepseek ohne online access
 {
-
   "ObjectName": "BAPI_USER_GET_DETAIL",
-
   "SystemType": "SAP ABAP Server",
-
   "ObjectKnown": true,
-
   "Sourcing": "1: TrainingData",
-
   "CriticalityScore": 7,
-
   "CriticalityReason": "This function module retrieves detailed user information, including roles, profiles, and personal data, which can lead to information disclosure if accessed without proper authorization, potentially enabling social engineering or privilege escalation attacks.",
-
   "Recommendation": "Implement strict authorization checks using objects like S_USER_GRP and S_USER_PRO, restrict RFC calls to trusted systems, and regularly audit access logs for suspicious activity.",
-
   "ReplacementObject": "",
-
   "OtherInformation": "BAPI_USER_GET_DETAIL is vulnerable to misuse in unsecured RFC scenarios; consider applying relevant SAP security notes and using secure alternatives like Fiori apps for user management where possible.",
-
   "SourceOfEvidence": "SAP Documentation, Internal Training Data",
-
   "LLM_Name": "ChatGPT Version 4",
-
   "LLM_Version": "4",
-
   "OnlineResearchTimestamp": "",
-
   "TrainingTimeStamp": "2023-10-01T00:00:00Z",
-
   "AnswerTimeStamp": "",
-
   "QueryTimeStamp": "2024-06-15T00:00:00Z"
-
 }
