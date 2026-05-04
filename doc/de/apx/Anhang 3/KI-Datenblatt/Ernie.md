@@ -1,4 +1,4 @@
-# ERNIE 4.5 Turbeo - 20260504
+# ERNIE 4.5 Turbo - 20260504
 
 Beidu
 
