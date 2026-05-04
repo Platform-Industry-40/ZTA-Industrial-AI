@@ -1,6 +1,6 @@
 # ERNIE 4.5 Turbo - 20260504
 
-Beidu
+Beidu (CN)
 
 ```json
 
