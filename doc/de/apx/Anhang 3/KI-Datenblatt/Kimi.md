@@ -1,4 +1,4 @@
-# KIMI K2.6 Instant
+# KIMI K2.6 Instant - 20260504
 
 ```json
 
