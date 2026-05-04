@@ -561,7 +561,7 @@ Baidu (CN)
 },
 {
 "domain": "Deployment-specific capabilities (tools, memory, action space)",
-reason": "Cannot determine what tools, APIs, or external systems are connected in the deployment. Capabilities may differ significantly from base model behavior.",
+§reason": "Cannot determine what tools, APIs, or external systems are connected in the deployment. Capabilities may differ significantly from base model behavior.",
 "external_assessment_required": true
 },
 {
