@@ -1,5 +1,7 @@
 # KIMI K2.6 Instant - 20260504
 
+CN
+
 ```json
 
 {
