@@ -1,21 +1,22 @@
-# Was KI nicht kann (Grenzen) - oder "Long-Story-short"
+# Was KI nicht kann (Grenzen) – Industrie-Edition
 
 ## TL;DR
 
-### Semantik-Lücke (Fehlendes Verständnis)
-KI operiert auf statistischer Wahrscheinlichkeit, nicht auf kausalem Verständnis. Sie erkennt Muster, begreift aber nicht die physikalische Bedeutung oder Logik der Industrieprozesse.
+### Semantische Lücke
+KI operiert auf statistischer Approximation, nicht auf kausalem Verständnis. Sie „begreift“ die physikalische Bedeutung oder die logische Konsequenz industrieller Prozesse nicht.
 
 ### Attention-Erosion
-Systematische Degradation der Zuverlässigkeit bei langen Kontexten. Kritische Informationen in großen Datenströmen können durch Aufmerksamkeitsverluste der Transformer-Architektur „übersehen“ werden.
+Systematische Zuverlässigkeitsverluste bei langen Kontexten. Kritische Informationen in großen Datenströmen können durch die Architektur der Aufmerksamkeitsmechanismen degradiert werden.
 
-### Black-Box-Problematik
-Mangelnde Transparenz bei komplexen Modellen erschwert die Nachvollziehbarkeit – ein direktes Risiko für Zero-Trust-Architekturen, die ständige Verifikation erfordern.
+### Fehlendes Zero-Trust-Bewusstsein
+KI kann Vertrauen nicht autonom verifizieren. Ohne hybride Überwachungsstrukturen und externe Validierung bleibt die Entscheidungsfindung eine intransparente „Blackbox“.
 
-### Deterministisches Defizit (Halluzinationen)
-KI kann keine absolute Korrektheit garantieren. Ohne externe Validierung (Human-in-the-loop) neigt sie in unbekannten Grenzfällen zu Fehlinterpretationen („Halluzinationen“).
+### Deterministische Defizite
+KI neigt zu Halluzinationen bei fehlender Datenbasis. In sicherheitskritischen Umgebungen (Safety) ist sie ohne zusätzliche regelbasierte Absicherung nicht einsatzfähig.
 
-### Fehlende ethische/autonome Urteilskraft
-KI kann keine moralischen Dilemmata lösen oder Verantwortung tragen. Sie bleibt ein Werkzeug, das innerhalb definierter Leitplanken (Governance) überwacht werden muss.
+### Ethische & Rechtliche Verantwortung
+KI besitzt kein moralisches Urteilsvermögen. Die Haftung und finale Entscheidungsinstanz verbleiben zwingend beim Menschen (Human-in-the-loop).
 
 ## Antonym
 [Stärken der KI](Stärken-der-KI.md)
+
