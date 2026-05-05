@@ -20,7 +20,8 @@ Industrie-4.0-Systeme sind verteilt, dynamisch und sicherheitskritisch. ZTA verl
 - MoE/
 - SLM/
 - Semantik/
-- ZTA-Kaskade.md
+- Hierarchische_ZTA-Kaskade.md
+- Bild_ZTA-Kaskade.md
 - Abstract.md   ← übergeordnetes Abstract der KI-Modelle
 - Stärken-der-KI.md
 - Grenzen-der-KI.md
@@ -31,7 +32,7 @@ Industrie-4.0-Systeme sind verteilt, dynamisch und sicherheitskritisch. ZTA verl
 3. Attention-Erosion (Modellverhalten im Betrieb)
 4. KI-Datenblatt + KI-Fingerprint (konkrete Modelle & Dokumentation)
 5. SLM + MoE (Architekturvarianten)
-6. ZTA-Kaskade.md (Systemdynamik)
+6. Hierarchische_ZTA-Kaskade.md und Bild_ZTA-Kaskade.md (Systemdynamik)
 
 ## TL;DR
 
