@@ -22,6 +22,7 @@ Industrie-4.0-Systeme sind verteilt, dynamisch und sicherheitskritisch. ZTA verl
 - Semantik/
 - ZTA-Kaskade.md
 - Abstract.md   ← übergeordnetes Abstract der KI-Modelle
+- Grenzen-der-KI.md
 
 ## Empfohlene Lesereihenfolge
 1. KI-Modelle-Abstract.md (Zusammenfassung aller Perspektiven)
@@ -30,6 +31,9 @@ Industrie-4.0-Systeme sind verteilt, dynamisch und sicherheitskritisch. ZTA verl
 4. KI-Datenblatt + KI-Fingerprint (konkrete Modelle & Dokumentation)
 5. SLM + MoE (Architekturvarianten)
 6. ZTA-Kaskade.md (Systemdynamik)
+
+## TL;DR
+>> [Grenzen der KI](Grenzen-der-KI.md)
 
 ## Verbindung zum Gesamtprojekt ZTA+KI_2026
 Dieser Ordner liefert die technische und theoretische Basis für alle weiteren Compliance-, Architektur- und Sicherheitsentscheidungen im Projekt.
