@@ -2,20 +2,20 @@
 
 ## TL;DR
 
-### Datenverarbeitung & Analyse: 
-Riesige Datenmengen in Sekunden durchsuchen, korrelieren und analysieren.
+### Hochperformante Datenanalyse
+Massive Datenströme in Echtzeit korrelieren – die Basis für Predictive Maintenance und Anomalieerkennung in vernetzten Systemen.
 
-### Mustererkennung: 
-Komplexe Muster in Bildern, Texten oder Audiodaten erkennen, die Menschen entgehen.
+## Skalierbare Architekturen (MoE & SLM)
+Flexibler Einsatz: Von rechenstarken Mid-Layer-Lösungen (Mixture of Experts) bis hin zu latenzkritischen Anwendungen direkt am Edge (Small Language Models).
 
-### Inhaltserstellung (Generative KI): 
-Texte schreiben, programmieren, Bilder, Videos oder Musik erstellen.
+## Automatisierte Compliance & Verifikation
+Systematische Dokumentation durch KI-Fingerprints und Datenblätter sichert die Integrität und erfüllt regulatorische Anforderungen (EU AI Act).
 
-### Vorhersagen (Predictive AI): 
-Trends prognostizieren, Risiken bewerten (z. B. in der Medizin oder bei Finanzanlagen).
+## Generative Prozessoptimierung
+Effiziente Erstellung von Programmcode, technischen Dokumentationen und Simulationen zur Beschleunigung von Entwicklungszyklen.
 
-### Routinetätigkeiten: 
-Wiederkehrende, regelbasierte Aufgaben automatisieren.
+## Mustergestützte Entscheidungsunterstützung
+Erkennung komplexer Zusammenhänge in Multisensor-Umgebungen, die über menschliche Überwachungskapazitäten hinausgehen.
 
 ## Antonym
 [Grenzen der KI](Grenzen-der-KI.md)
