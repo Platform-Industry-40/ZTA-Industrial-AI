@@ -33,7 +33,9 @@ Industrie-4.0-Systeme sind verteilt, dynamisch und sicherheitskritisch. ZTA verl
 6. ZTA-Kaskade.md (Systemdynamik)
 
 ## TL;DR
+
 >> [Stärken der KI](Stärken-der-KI.md)
+
 >> [Grenzen der KI](Grenzen-der-KI.md)
 
 ## Verbindung zum Gesamtprojekt ZTA+KI_2026
