@@ -2,20 +2,20 @@
 
 ## TL;DR
 
-### Echtes Verständnis & Bewusstsein: 
-KI versteht den Kontext oder die Bedeutung der Daten nicht, die sie verarbeitet. Sie hat kein Bewusstsein oder Selbstverständnis.
+### Semantik-Lücke (Fehlendes Verständnis)
+KI operiert auf statistischer Wahrscheinlichkeit, nicht auf kausalem Verständnis. Sie erkennt Muster, begreift aber nicht die physikalische Bedeutung oder Logik der Industrieprozesse.
 
-### Echte Kreativität: 
-KI erstellt neue Inhalte basierend auf vorhandenen Mustern (Kombinatorik), besitzt aber keine intuitive Kreativität oder Inspiration.
+### Attention-Erosion
+Systematische Degradation der Zuverlässigkeit bei langen Kontexten. Kritische Informationen in großen Datenströmen können durch Aufmerksamkeitsverluste der Transformer-Architektur „übersehen“ werden.
 
-### Emotionale Intelligenz & Empathie: 
-KI kann Emotionen simulieren, aber nicht fühlen oder echte Empathie empfinden.
+### Black-Box-Problematik
+Mangelnde Transparenz bei komplexen Modellen erschwert die Nachvollziehbarkeit – ein direktes Risiko für Zero-Trust-Architekturen, die ständige Verifikation erfordern.
 
-### Ethisches Urteilsvermögen: 
-KI kann keine moralischen Entscheidungen treffen oder ethische Dilemmata lösen, da sie auf Regeln und Wahrscheinlichkeiten basiert.
+### Deterministisches Defizit (Halluzinationen)
+KI kann keine absolute Korrektheit garantieren. Ohne externe Validierung (Human-in-the-loop) neigt sie in unbekannten Grenzfällen zu Fehlinterpretationen („Halluzinationen“).
 
-### Verlässlichkeit ohne Trainingsdaten: 
-KI kann nur auf Basis ihrer Trainingsdaten arbeiten. Bei unbekannten Situationen versagt sie oder halluziniert falsche Informationen.
+### Fehlende ethische/autonome Urteilskraft
+KI kann keine moralischen Dilemmata lösen oder Verantwortung tragen. Sie bleibt ein Werkzeug, das innerhalb definierter Leitplanken (Governance) überwacht werden muss.
 
 ## Antonym
 [Stärken der KI](Stärken-der-KI.md)
