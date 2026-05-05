@@ -76,5 +76,6 @@ Die Resilienz des Gesamtkonstrukts ergibt sich aus der bidirektionalen Validieru
 
 Dieses Modell beschreibt eine Distributed Intelligence Architecture, in der Vertrauen eine dynamische Funktion des Kontextes ist. Die „Eh-da-Welt“ liefert die physische Evidenz, die Stufe 2 die prozessuale Validität und die Stufe 3 die globale Souveränität.
 
+Die Verlässlichkeit der strategischen Inferenz (Stufe 3) wird durch den in Anhang 2 dokumentierten iterativen Approximations-Ansatz sichergestellt. Hierbei werden stochastische Unsicherheiten der GPAI-Modelle durch einen strukturierten Validierungsprozess in deterministische ABAC-Regelsätze transformiert, welche die Grundlage für die Mikrosegmentierung in den operativen Ebenen (Stufe 1 und 2) bilden.
 
 
