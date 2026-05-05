@@ -18,4 +18,4 @@ KI kann keine moralischen Entscheidungen treffen oder ethische Dilemmata lösen,
 KI kann nur auf Basis ihrer Trainingsdaten arbeiten. Bei unbekannten Situationen versagt sie oder halluziniert falsche Informationen.
 
 ## Antonym
-[Stärken der KI](Staerken-der-KI.md)
+[Stärken der KI](Stärken-der-KI.md)
