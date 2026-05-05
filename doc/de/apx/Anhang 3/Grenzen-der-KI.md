@@ -1,5 +1,4 @@
-# Was KI nicht kann (Grenzen) - oder Long STory short (TL;DR)
-
+# Was KI nicht kann (Grenzen) - oder "Long-Story-short" = (TL;DR)
 ## Echtes Verständnis & Bewusstsein: 
 KI versteht den Kontext oder die Bedeutung der Daten nicht, die sie verarbeitet. Sie hat kein Bewusstsein oder Selbstverständnis.
 
