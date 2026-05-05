@@ -37,7 +37,7 @@ $$
 $$ 
 
 ## 2. Systemtheoretische Einordnung
-Die Kaskade löst das Problem der Unsicherheit in Zero-Trust-Systemen durch eine hierarchische Eskalationslogik:
+Die Kaskade ([Graphik](Bild_ZTA-Kaskade.md)) löst das Problem der Unsicherheit in Zero-Trust-Systemen durch eine hierarchische Eskalationslogik:
 
    1. **Lokalität:** Die Integrität wird primär durch die bereits vorhandene, qualitätsgesicherte Stufe 1 (Eh-da-Welt) gewahrt.
    2. **Kontextualität:** Stufe 2 reduziert Fehlalarme (False Positives) durch Einbeziehung branchenspezifischer Logik.
