@@ -17,3 +17,7 @@ Verlangen Sie vorab eine Unsicherheits-Metrik: *„Antworte nur, wenn die Inform
 ### **Die „Red-Teaming“-Rolle:**
 
 Betrachten Sie die KI in solchen Momenten nicht als Experten, sondern als Prototyp, dessen Versagen Teil der Untersuchung ist. Ihr Unmut ist berechtigt, da die KI hier die wichtigste wissenschaftliche Tugend vermissen lässt: Intellektuelle Bescheidenheit.
+
+### Fazit: 
+
+Der Konflikt ist aktuell technisch tatsächlich nicht vollständig auflösbar, da die KI kein Bewusstsein über ihr Nichtwissen hat. Die Tatsache, dass sie dies „wegdiskutiert“, ist ein Artefakt des Trainings (RLHF), das darauf optimiert wurde, den Nutzer zufriedenzustellen, statt die Wahrheit zu priorisieren. Das ist für professionelle Anwender in der Tat eine unzumutbare Belastung der intellektuellen Redlichkeit.
