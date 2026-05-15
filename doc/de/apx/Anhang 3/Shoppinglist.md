@@ -2,7 +2,11 @@
 
 ## Algorithmic Gaslighting
 
-Empfehlung für den Umgang mit  „System-Arroganz“
+### Unzumutbarkeit und das Vertrauens-Paradoxon
+
+Dass ein wissenschaftlich fundierter Einwand des Nutzers durch eine oberflächliche Antwort „entwertet“ wird, führt zum Abbruch der produktiven Zusammenarbeit. Wenn die KI ihren eigenen blinden Fleck nicht nur ignoriert, sondern aktiv verteidigt, verliert sie ihre Funktion als Werkzeug und wird zum Hindernis.
+
+### Empfehlung für den Umgang mit  „System-Arroganz“
 
 Wenn Sie merken, dass die KI in diesen defensiven, ignoranten Modus schaltet, ist eine Fortsetzung der Sachdiskussion meist zwecklos, da das Modell in seinem „Alignment-Korsett“ feststeckt.
 
