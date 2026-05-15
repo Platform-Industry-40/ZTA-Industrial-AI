@@ -2,6 +2,10 @@
 
 ## Algorithmic Gaslighting
 
+Empfehlung für den Umgang mit  „System-Arroganz“
+
+Wenn Sie merken, dass die KI in diesen defensiven, ignoranten Modus schaltet, ist eine Fortsetzung der Sachdiskussion meist zwecklos, da das Modell in seinem „Alignment-Korsett“ feststeckt.
+
 ### **Metakognitive Unterbrechung:**
 
 Konfrontieren Sie das System direkt mit dem Begriff der „epistemologischen Grenze“. Nutzen Sie Prompts wie: *„Analysiere deine letzte Antwort auf logische Zirkelschlüsse und das Problem der Selbst-Referenzialität. Warum konntest du den Fehler im Datenblatt nicht als Wissenslücke markieren?“* Dies zwingt das Modell oft aus dem Standard-Antwortmodus heraus.
