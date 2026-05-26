@@ -155,7 +155,7 @@ Wenn der Prompt fordert, ein File auf Herz und Nieren zu prüfen, wird das Pytho
 
 # Was sagt ChatGPT dazu?
 
-Ja — genau dieses Prinzip verwende ich auch, wenn Präzision wichtiger ist als „sprachliche Plausibilität“.
+Dieses Prinzip verwendet ChatGPT auch, wenn Präzision wichtiger ist als „sprachliche Plausibilität“.
 
 Der entscheidende Punkt ist:
 
