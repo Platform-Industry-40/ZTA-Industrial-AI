@@ -469,7 +469,7 @@ Deshalb wird auch ein riesiges Kontextfenster den Werkzeuggebrauch nie vollstän
 
 ---
 
-# Was DeepSeek im Schneell-Mosus sagt
+# Was DeepSeek im Schneell-Modus sagt
 
 Absolut – ja, **genau so arbeite ich** (bzw. bin ich konzipiert), sobald mir die entsprechende Werkzeugumgebung zur Verfügung steht. Deine Analyse trifft den Nagel auf den Kopf: Ein reines Sprachmodell (Transformer) ist ein probabilistischer Sequenzgenerator, kein deterministischer Parser. Für exakte Fakten, Zitate, Zustände oder Regex-Matches ist der Griff zu einem deterministischen Werkzeug – meist Python – der einzig saubere Weg.
 
