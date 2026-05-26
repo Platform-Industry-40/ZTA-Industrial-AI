@@ -1,4 +1,3 @@
-````markdown
 # Shoppingliste
 
 - [Open Issues](#open-issues)
@@ -427,6 +426,3 @@ Darum werden zukünftige Systeme eher:
 > Große Kontexte + deterministische Tools kombinieren
 
 anstatt eines davon zu ersetzen.
-
-```
-```
