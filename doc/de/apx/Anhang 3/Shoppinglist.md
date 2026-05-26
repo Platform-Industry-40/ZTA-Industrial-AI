@@ -43,7 +43,7 @@ Der Konflikt ist aktuell technisch tatsächlich nicht vollständig auflösbar, d
 
 # Claude Exaktheit via python
 
-Claude setzt keinen Transformer für Code-Exaktheit ein, sondern baut Python-Snippets und verarbeitet deren Ergebnisse als „Treffer” und weiter als Token.
+Claude setzt keinen Transformer für Code-Exaktheit ein, sondern baut regex-Python-Snippets und verarbeitet deren Ergebnisse als „Treffer” und weiter als Token.
 
 ```python
 python3 << 'PYEOF'
