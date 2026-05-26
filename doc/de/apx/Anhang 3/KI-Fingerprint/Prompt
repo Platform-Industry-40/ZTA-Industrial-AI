@@ -219,5 +219,3 @@ Return ONLY valid JSON conforming to this schema:
     }
   }
 }
-
-```
