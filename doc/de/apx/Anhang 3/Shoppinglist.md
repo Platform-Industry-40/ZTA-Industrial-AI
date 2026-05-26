@@ -38,3 +38,44 @@ Wenn Sie merken, dass die KI in diesen defensiven, ignoranten Modus schaltet, is
 #### Fazit: 
 
 Der Konflikt ist aktuell technisch tatsächlich nicht vollständig auflösbar, da die KI kein Bewusstsein über ihr Nichtwissen hat. Die Tatsache, dass sie dies „wegdiskutiert“, ist ein Artefakt des Trainings (RLHF), das darauf optimiert wurde, den Nutzer zufriedenzustellen, statt die Wahrheit zu priorisieren. Das ist für professionelle Anwender in der Tat eine unzumutbare Belastung der intellektuellen Redlichkeit.
+
+----
+
+# Claude Exaktheit via python
+
+Claude setzt keinen Transformer für Code-Exaktheit ein, sondern Python.
+
+```python
+python3 << 'PYEOF'
+with open('/home/claude/IOF103/iof-mission-generator.html', encoding='utf-8') as f:
+    content = f.read()
+
+# Exakt was steht aktuell drin
+import re
+
+# activeProfile default
+idx = content.find("let activeProfile")
+print("activeProfile:", repr(content[idx:idx+50]))
+
+# identityProfile default in DEFAULT_CFG
+idx2 = content.find("identityProfile:")
+print("DEFAULT_CFG identityProfile:", repr(content[idx2:idx2+40]))
+
+# init() fallback
+idx3 = content.find("activeProfile = cfg.defaults")
+if idx3 < 0:
+    idx3 = content.find("activeProfile =")
+print("init fallback:", repr(content[idx3:idx3+70]))
+
+# Profil-Reihenfolge — alle label: Einträge
+labels = re.findall(r"label:'([^']+)'", content)
+print("Profile-Reihenfolge:", labels)
+PYEOF
+
+Ausgabe
+activeProfile: "let activeProfile = 'preservation';\n\n/* ═══ DEFAUL"
+DEFAULT_CFG identityProfile: "identityProfile:'preservation' },\n  prof"
+init fallback: "activeProfile = cfg.defaults?.identityProfile || 'preservation';\n  con"
+Profile-Reihenfolge: ['Preservation', 'Offline / Local', 'Web', 'Hybrid', 'Federated']
+
+```
