@@ -41,10 +41,22 @@ Der Konflikt ist aktuell technisch tatsächlich nicht vollständig auflösbar, d
 
 ----
 
-# Claude Exaktheit via python
+# Code Exaktheit via python
 
-Claude verwendet keinen Transformer für Code-Exaktheit, sondern erstellt regex-Python-Snippets und verarbeitet deren Ergebnisse als „Treffer” in Form von Tokens.
+## System-Architektur
 
+KI-Systeme wie Gemini umd Claude verwenden einen Transformer! Ein Transformer-Modell allein ist jedoch von Natur aus ein *stochastischer Textgenerator* (es rät das nächste logische Token basierend auf Wahrscheinlichkeiten). Wenn es darum geht, in einem riesigen Dokument ein exaktes Zitat oder den exakten Zustand einer Variable zu finden, neigen LLMs zum "Halluzinieren" oder Überlesen von Details.
+
+## Der "Code Execution" Weg
+
+Hier folgt jetzt ein klassisches Beispiel für **Tool Use (Werkzeugnutzung)** oder **Code Execution** (oft als *Advanced Data Analysis* oder *Code Interpreter* bezeichnet):
+
+1. **Der Transformer ** erkennt: *"Ich soll exakt prüfen, was im File steht."*
+2. **Der Transformer** entscheidet autonom: *"Statt zu raten, schreibe ich ein Python-Skript mit `re` (Regex) und `find()`, um die Wahrheit zu ermitteln."*
+3. **Das System** führt dieses Python-Skript in einer isolierten Sandbox aus.
+4. **Der Transformer** liest den Output des Skripts (die Token der `print()`-Befehle) und generiert daraus die finale, absolut exakte Antwort.
+
+### Beispiel
 
 ```python
 python3 << 'PYEOF'
@@ -80,3 +92,29 @@ init fallback: "activeProfile = cfg.defaults?.identityProfile || 'preservation';
 Profile-Reihenfolge: ['Preservation', 'Offline / Local', 'Web', 'Hybrid', 'Federated']
 
 ```
+
+
+---
+
+## 2. Der native Kontext-Weg (Google-Spezifisch)
+
+Gemini bietet ein **extrem große Kontextfenster** (Millionen von Token). Das bedeutet:
+
+* Gemini verzichtet oft auf Python-Skript, um Textpassagen zu finden.
+* Das Gemini Transformer-Modell kann gigantische HTML- oder Code-Dateien nativ bearbeitem und durchsucht mit speziellen Aufmerksamkeits-Mechanismen (Attention Mechanism).
+
+### Der direkte Vergleich
+
+| Feature | 1. Ansatz  | 2. Ansatz |
+| --- | --- | --- |
+| **Primäres Werkzeug** | Python-Regex / String-Suche via Sandbox | Riesiges natives Kontextfenster ODER Python-Sandbox |
+| **Vorteil** | 100% mathematisch exakt bei Mustern (Regex fängt alles). | Extrem schnell, da das Dokument direkt im "Arbeitsspeicher" des Modells liegt. |
+| **Nachteil** | Braucht einen extra Ausführungsschritt (kostet Zeit). | Bei extrem unübersichtlichem Code *könnte* theoretisch ein Detail übersehen werden (daher nutze ich bei expliziter Detail-Nachfrage auch Python). |
+
+---
+
+## Fazit
+
+Das Python-Snippet im 1. Ansatz ist der perfekte Beweis für **moderne KI-Informatik**: Man überlasst dem Sprachmodell die Logik (das "Warum" und "Was"), aber für das "Wie" (die exakte Suche) triggert die KI ein deterministisches Werkzeug wie Python.
+
+Wenn der Prompt fordert, ein File auf Herz und Nieren zu prüfen, wird das Python-Tool verwendet, um exakte Zeilen auszulesen!
