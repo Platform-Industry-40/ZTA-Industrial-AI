@@ -12,7 +12,7 @@
       - [Fazit](#fazit)
 - [Code Exaktheit via python](#code-exaktheit-via-python)
   - [System-Architektur](#system-architektur)
-  - [Der "Code Execution" Weg](#der-code-execution-weg)
+  - [1. Der "Code Execution" Weg](#1-der-code-execution-weg)
     - [Beispiel](#beispiel)
   - [2. Der native Kontext-Weg (Google-Spezifisch)](#2-der-native-kontext-weg-google-spezifisch)
     - [Der direkte Vergleich](#der-direkte-vergleich)
@@ -80,7 +80,7 @@ Der Konflikt ist aktuell technisch tatsächlich nicht vollständig auflösbar, d
 
 KI-Systeme wie Gemini umd Claude verwenden einen Transformer! Ein Transformer-Modell allein ist jedoch von Natur aus ein *stochastischer Textgenerator* (es rät das nächste logische Token basierend auf Wahrscheinlichkeiten). Wenn es darum geht, in einem riesigen Dokument ein exaktes Zitat oder den exakten Zustand einer Variable zu finden, neigen LLMs zum "Halluzinieren" oder Überlesen von Details.
 
-## Der "Code Execution" Weg
+## 1. Der "Code Execution" Weg
 
 Hier folgt jetzt ein klassisches Beispiel für **Tool Use (Werkzeugnutzung)** oder **Code Execution** (oft als *Advanced Data Analysis* oder *Code Interpreter* bezeichnet):
 
