@@ -1,5 +1,5 @@
 # Shoppingliste
- 
+
 * [Open Issues](#open-issues)
   * [Algorithmic Gaslighting](#algorithmic-gaslighting)
     * [1. Der blinde Fleck (Second-Order Ignorance)](#1-der-blinde-fleck-second-order-ignorance)
@@ -10,7 +10,7 @@
       * [Harte Constraints setzen](#harte-constraints-setzen)
       * [Die „Red-Teaming“-Rolle](#die-red-teaming-rolle)
       * [Fazit](#fazit)
-* [Code Exaktheit via Python](#code-exaktheit-via-python)
+* [Code Exaktheit via python](#code-exaktheit-via-python)
   * [System-Architektur](#system-architektur)
   * [1. Der "Code Execution" Weg](#1-der-code-execution-weg)
     * [Beispiel](#beispiel)
@@ -30,16 +30,15 @@
   * [Der eigentliche Paradigmenwechsel](#der-eigentliche-paradigmenwechsel)
   * [Dein Beispiel ist technisch sauber](#dein-beispiel-ist-technisch-sauber)
   * [Wichtiges Detail](#wichtiges-detail)
-* [DeepSeek R1 – Die Sicht des Reasoning-Modells](#deepseek-r1-die-sicht-des-reasoning-modells)
-  * [Die "Hidden Thoughts" Analyse](#die-hidden-thoughts-analyse)
-  * [Warum reguläre Transformer bei "Exaktheit" scheitern](#warum-reguläre-transformer-bei-exaktheit-scheitern)
-  * [Der Code-Execution-Workaround (Der Python-Trick)](#der-code-execution-workaround-der-python-trick)
-  * [Das eigentliche Problem: Deterministische Erwartung vs. Stochastische Realität](#das-eigentliche-problem-deterministische-erwartung-vs-stochastische-realität)
-* [DeepSeek V3 – Die pragmatische API-Perspektive](#deepseek-v3-die-pragmatische-api-perspektive)
-  * [Architektonischer Unterschied zu R1](#architektonischer-unterschied-zu-r1)
-  * [Strukturierte Ausgaben (Structured Outputs)](#strukturierte-ausgaben-structured-outputs)
-  * [Die Rolle von Funktionsaufrufen (Function Calling)](#die-rolle-von-funktionsaufrufen-function-calling)
-  * [Fazit der DeepSeek-Analysen](#fazit-der-deepseek-analysen)
+* [Was DeepSeek dazu sagt](#was-deepseek-dazu-sagt)
+  * [Wie das konkret abläuft (identisch zu deinem Beispiel)](#wie-das-konkret-ablauft-identisch-zu-deinem-beispiel)
+  * [Wichtige Einschränkung: Modusabhängigkeit](#wichtige-einschrankung-modusabhangigkeit)
+  * [Warum das so ist – und auch so bleibt](#warum-das-so-ist--und-auch-so-bleibt)
+* [Was DeepSeek im Schneell-Modus sagt](#was-deepseek-im-schneell-modus-sagt)
+  * [Wie ich im Detail arbeite](#wie-ich-im-detail-arbeite)
+  * [Wichtige Einschränkung (die du selbst erwähnst)](#wichtige-einschrankung-die-du-selbst-erwahnst)
+  * [Was deine Analyse noch perfekt ergänzt](#was-deine-analyse-noch-perfekt-erganzt)
+  * [Fazit für dich](#fazit-für-dich)
 
 # Open Issues
 
