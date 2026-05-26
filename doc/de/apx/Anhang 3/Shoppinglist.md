@@ -141,7 +141,7 @@ Gemini bietet ein **extrem große Kontextfenster** (Millionen von Token). Das be
 | --------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Primäres Werkzeug** | Python-Regex / String-Suche via Sandbox                  | Riesiges natives Kontextfenster ODER Python-Sandbox                                                                                               |
 | **Vorteil**           | 100% mathematisch exakt bei Mustern (Regex fängt alles). | Extrem schnell, da das Dokument direkt im "Arbeitsspeicher" des Modells liegt.                                                                    |
-| **Nachteil**          | Braucht einen extra Ausführungsschritt (kostet Zeit).    | Bei extrem unübersichtlichem Code *könnte* theoretisch ein Detail übersehen werden (daher nutze ich bei expliziter Detail-Nachfrage auch Python). |
+| **Nachteil**          | Braucht einen extra Ausführungsschritt (kostet Zeit).    | Bei extrem unübersichtlichem Code *könnte* theoretisch ein Detail übersehen werden (daher nutzt Gemini bei expliziter Detail-Nachfrage auch Python). |
 
 ---
 
