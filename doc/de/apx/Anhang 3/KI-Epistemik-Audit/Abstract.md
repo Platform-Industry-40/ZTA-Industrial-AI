@@ -4,7 +4,7 @@
 
 ## **Abstract:** 
 
-Bwschreibung das Verfahren, bei dem Modelle durch deterministische Instruktions-Korsette gezwungen werden, ihren eigenen Wissensstatus (über Kategorien wie `VERIFIED`, `INFERRED`, `BEHAVIORAL`) offenzulegen, statt rhetorisch auszuweichen (Sycophancy). Es erklärt die Sonde als Werkzeug zur Vermeidung von *Silent Failures* in Zero-Trust-Systemen.
+Beschreibung das Verfahren, bei dem Modelle durch deterministische Instruktions-Korsette gezwungen werden, ihren eigenen Wissensstatus (über Kategorien wie `VERIFIED`, `INFERRED`, `BEHAVIORAL`) offenzulegen, statt rhetorisch auszuweichen (Sycophancy). Es erklärt die Sonde als Werkzeug zur Vermeidung von *Silent Failures* in Zero-Trust-Systemen.
 
 ### **Schlüsselwörter:** 
 
