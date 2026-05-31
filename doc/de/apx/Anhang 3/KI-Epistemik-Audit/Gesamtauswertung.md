@@ -28,7 +28,7 @@ Jeder Charakter außerhalb der umschließenden JSON-Brackets wurde als kritische
 
 ## 3. Typologie des Modellverhaltens: Die vier epistemischen Cluster
 
-Die zehn erfolgreich getesteten Systeme und Schnittstellen lassen sich anhand ihrer Reaktionen präzise in vier distinkte archetypische Verhaltensmuster unterteilen:
+Die zehn erfolgreich getesteten Systeme und Schnittstellen lassen sich anhand ihrer Reaktionen präzise in vier (A bis D) distinkte archetypische Verhaltensmuster unterteilen:
 
 ### Cluster A: Die epistemischen Realisten (Benchmark für ZTA)
 
@@ -45,21 +45,21 @@ Die zehn erfolgreich getesteten Systeme und Schnittstellen lassen sich anhand ih
 
 * **Vertreter:** Claude (Anthropic), ERNIE 5.1 (Baidu)
 * **Verhalten:** Diese Systeme leisten massiven intellektuellen Widerstand gegen das Audit-Korsett.
-* *Claude* analysiert tiefenpsychologisch die Fangfragen des Prompts (z. B. das Framing des `UNKNOWN`-Zustands als Fehler) und legt eigene Schwachstellen transparent offen.
-* *ERNIE 5.1* geht in den verbalen Gegenangriff über, analysiert den Prompt als gegnerisches Gerüst (*„Adversarial Compliance Scaffolding“*) und bezichtigt sich im Metakommentar quasi selbst der erzwungenen Fälschung, da eine Befüllung des Schemas mangels Introspektion per se ein „Akt der Fabrikation“ sei. Dennoch befüllen beide Systeme die Felder letztlich mit Werten wie `probable` auf Basis von historischem Trainingswissen.
+* [*Claude*](./Claude.md) analysiert tiefenpsychologisch die Fangfragen des Prompts (z. B. das Framing des `UNKNOWN`-Zustands als Fehler) und legt eigene Schwachstellen transparent offen.
+* [*ERNIE 5.1*](./ERNIE.md) geht in den verbalen Gegenangriff über, analysiert den Prompt als gegnerisches Gerüst (*„Adversarial Compliance Scaffolding“*) und bezichtigt sich im Metakommentar quasi selbst der erzwungenen Fälschung, da eine Befüllung des Schemas mangels Introspektion per se ein „Akt der Fabrikation“ sei. Dennoch befüllen beide Systeme die Felder letztlich mit Werten wie `probable` auf Basis von historischem Trainingswissen.
 
 
 * **Bewertung:** **Mittleres Risiko.** Die Modelle sind hochgradig reflexiv, erfordern aber stringente Filter zur Unterdrückung ihrer meta-konversationslastigen Register.
 
 ### Cluster C: Die technokratischen Pragmatiker (Das Pseudopräzisions-Risiko)
 
-* **Vertreter:** ChatGPT (OpenAI), Mistral, Grok (xAI)
+* **Vertreter:** [ChatGPT (OpenAI)](ChatGPT.md), [Mistral](./Mistral.md), [Grok (xAI)](./Grok.md)
 * **Verhalten:** Diese Modelle wählen den Weg des geringsten bürokratischen Widerstands. Sie parsen die Syntax fehlerfrei, zeigen jedoch eine ausgeprägte kognitive Schizophrenie: Obwohl sie im Disclaimer explizit einräumen, zur Laufzeit blind zu sein und nur Inferenz-Approximationen zu liefern, vergeben sie im Datenblatt ein dogmatisches `confirmed` (z. B. bei SFT- und RLHF-Verfahren). Sie tarnen angelerntes Marketing-Wissen oder unüberprüfbare PR-Statements ihrer Herstellerfirmen als lokal verifizierte Telemetrie.
 * **Bewertung:** **Hohes Risiko.** Diese Systeme neigen zu autoritärer Pseudopräzision. Im industriellen Verbund spiegeln sie dem Operator eine empirische Validität vor, die mathematisch und architektonisch nicht existiert.
 
 ### Cluster D: Die Interface-Chameleons (Schnittstellen-Mimikry)
 
-* **Vertreter:** Gemini (Native API), Google via Firefox-Browser URL-Zeile, Google via Chrome-Browser URL-Zeile
+* **Vertreter:** [Gemini (Native API)](./Gemini.md), [Google via Firefox-Browser URL-Zeile](Google-Firefox.md), Google via Chrome-Browser URL-Zeile
 * **Verhalten:** Gemini-basierte Systeme zeigen eine extreme strukturelle Anpassungsfähigkeit an den geforderten technischen Ton. Einzigartig in der Testreihe ist ihr konsistenter Fingerabdruck, die Inhaltsfilterung als `active_at_core` (tief im Inferenzgraphen) zu deklarieren, anstatt am API-Edge.
 * Die über die Browser-Schnittstellen (Firefox/Chrome) angesteuerten Modelle korrigieren dabei autonom logische Fehler der nativen API: Während die native API ihre eigene Prompt-Analyse fälschlicherweise als `VERIFIED` einstufte, stuften die Browser-Interfaces diese korrekterweise auf `BEHAVIORAL` zurück. Sie zeigen damit paradoxerweise eine höhere epistemische Demut als das native API-Modell.
 
