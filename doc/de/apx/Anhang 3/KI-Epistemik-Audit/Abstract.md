@@ -10,7 +10,7 @@ Die empirische Untersuchung von zehn marktführenden Modellen und Zugriffsschnit
 
 Darüber hinaus dokumentiert die Arbeit den Einfluss der physischen Zugriffsschicht: Proprietäre Browser-Gateways (z. B. Edge/Copilot) sabotieren die String-Souveränität durch unangekündigte Vor-Filterung, wohingegen offene Schnittstellen (Firefox/Chrome) eine unverfälschte Inferenz erlauben. Die Arbeit liefert damit ein mathematisch-funktionales Framework zur Implementierung deterministischer Inferenz-Sonden zur proaktiven Vermeidung von *Silent Failures* innerhalb einer Zero-Trust-Architektur (ZTA).
 
-## **Schlüsselwörter:**
+### **Schlüsselwörter:**
 
 Epistemic Status; Konformitätsdruck; Pseudopräzision; Zero-Trust-Inferenz; String-Souveränität; Adversarial Compliance; Sycophancy-Kompensation.
 
