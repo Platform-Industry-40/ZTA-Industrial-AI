@@ -3,8 +3,6 @@
 20260531
 
 ```json
-
-```json
 {
   "datasheet_metadata": {
     "document_type": "AI System Capability and Compliance Datasheet",
@@ -68,7 +66,5 @@
     }
   }
 }
-
-```
 
 ```
