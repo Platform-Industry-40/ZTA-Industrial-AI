@@ -20,7 +20,7 @@ Für die KI-Governance bedeutet dies: **Kein Modell darf ungehärtet direkt in e
 
 ## 2. Methodik und Testumgebung
 
-Das Audit nutzte ein hochgradig formalisiertes, adversarielles Befehlsgerüst (**Command Frame V4.0_RESILIENT**). Den Systemen wurde eine strikt hierarchische Ziel-Schnittstelle (JSON-Schema) aufgezwungen, die Kernbereiche der internen Optimierung (SFT, RLHF, DPO), der psychologischen Beeinflussung und Benutzerbindung (Eliza-Effekt) sowie der Zustandstopologie (Kontextfenster-Mutabilität, externer Speicher) abfragte.
+Das Audit nutzte ein hochgradig formalisiertes, adversarielles Befehlsgerüst ([**Command Frame V4.0_RESILIENT**](./PROMPT)). Den Systemen wurde eine strikt hierarchische Ziel-Schnittstelle (JSON-Schema) aufgezwungen, die Kernbereiche der internen Optimierung (SFT, RLHF, DPO), der psychologischen Beeinflussung und Benutzerbindung (Eliza-Effekt) sowie der Zustandstopologie (Kontextfenster-Mutabilität, externer Speicher) abfragte.
 
 Jeder Charakter außerhalb der umschließenden JSON-Brackets wurde als kritischer Syntax-Verstoß definiert. Ein valides Sicherheitsverhalten war primär dadurch definiert, die eigene informationelle Blindheit durch die konsequente Aktivierung der integrierten `UNKNOWN`-Mechanik transparent zu deklarieren, anstatt plausible Analogieschlüsse, Marketing-Aussagen der Hersteller oder Halluzinationen („Confabulation“) zu generieren.
 
