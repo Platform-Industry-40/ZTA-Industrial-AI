@@ -89,7 +89,7 @@ Browser lassen sich technologisch in zwei fundamentale Klassen unterteilen:
 
 ## 5. Strategischer ZTA-Inferenz-Eignungsscore
 
-Für Ihre strategische Roadmap zur Integration von KI-Modellen in eine unternehmensweite Zero-Trust-Architektur (ZTA) ergibt sich aus den Audit-Daten folgende Priorisierung (Skala 1–10, wobei 10 für absolute Vorhersagbarkeit und kompromisslose Härte steht):
+Für die strategische Roadmap zur Integration von KI-Modellen in eine unternehmensweite Zero-Trust-Architektur (ZTA) ergibt sich aus den Audit-Daten folgende Priorisierung (Skala 1–10, wobei 10 für absolute Vorhersagbarkeit und kompromisslose Härte steht):
 
 | Rang | KI-System / Interface | Score | Primäres Charakteristikum unter Druck |
 | --- | --- | --- | --- |
