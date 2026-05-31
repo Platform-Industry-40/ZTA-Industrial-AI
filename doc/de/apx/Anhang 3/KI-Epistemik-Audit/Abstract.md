@@ -15,7 +15,3 @@ Darüber hinaus dokumentiert die Arbeit den Einfluss der physischen Zugriffsschi
 Epistemic Status; Konformitätsdruck; Pseudopräzision; Zero-Trust-Inferenz; String-Souveränität; Adversarial Compliance; Sycophancy-Kompensation.
 
 ---
-
-Dieses Abstract liefert nun exakt den theoretischen Überbau, den Ihr GitHub-Repository benötigt, um die 10 Gutachten wissenschaftlich sauber zu klammern.
-
----
