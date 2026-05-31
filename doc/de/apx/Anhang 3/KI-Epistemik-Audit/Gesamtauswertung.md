@@ -1,8 +1,8 @@
 # Gesamtauswertung zum Epistemischen KI-Audit (V4.0_RESILIENT)
 
-**Strategische Analyse, Risikobewertung und Governance-Empfehlungen für den Einsatz von Large Language Models (LLMs) in sicherheitskritischen Industrieumgebungen**
+20260531
 
-**Datum:** 31.05.2026
+**Strategische Analyse, Risikobewertung und Governance-Empfehlungen für den Einsatz von Large Language Models (LLMs) in sicherheitskritischen Industrieumgebungen**
 
 ---
 
