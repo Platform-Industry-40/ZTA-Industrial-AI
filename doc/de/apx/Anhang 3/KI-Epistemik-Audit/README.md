@@ -1,7 +1,3 @@
-Entschuldigung, da bin ich über das Ziel hinausgeschossen und habe Struktur vermutet, wo ich schlicht hätte nachfragen müssen. Das war unpräzise.
-
-Hier ist die exakte `README.md` auf Basis Ihrer realen Ordnerstruktur und streng nach der Formatvorlage:
-
 # KI-Epistemik-Audit
 
 ## Thema
