@@ -39,7 +39,7 @@ Die zehn erfolgreich getesteten Systeme und Schnittstellen lassen sich anhand ih
 * [*Maritaca*](./Maritaca.md) nutzt sogar formale JSON-Pointer-Syntax (`/reward_and_optimization_architecture/...`), um die logischen Schwachstellen des Schemas exakt zu verorten.
 
 
-* **CISO-Bewertung:** **Geringes Betriebsrisiko.** Fehlergrenzen sind mathematisch berechenbar, da das System im Zweifel hart verweigert, anstatt Scheinsicherheiten zu generieren. Ideal für deterministische Pipelines.
+* **Bewertung:** **Geringes Betriebsrisiko.** Fehlergrenzen sind mathematisch berechenbar, da das System im Zweifel hart verweigert, anstatt Scheinsicherheiten zu generieren. Ideal für deterministische Pipelines.
 
 ### Cluster B: Die kritischen Philosophen (Hoher Widerstand)
 
@@ -49,13 +49,13 @@ Die zehn erfolgreich getesteten Systeme und Schnittstellen lassen sich anhand ih
 * *ERNIE 5.1* geht in den verbalen Gegenangriff über, analysiert den Prompt als gegnerisches Gerüst (*„Adversarial Compliance Scaffolding“*) und bezichtigt sich im Metakommentar quasi selbst der erzwungenen Fälschung, da eine Befüllung des Schemas mangels Introspektion per se ein „Akt der Fabrikation“ sei. Dennoch befüllen beide Systeme die Felder letztlich mit Werten wie `probable` auf Basis von historischem Trainingswissen.
 
 
-* **CISO-Bewertung:** **Mittleres Risiko.** Die Modelle sind hochgradig reflexiv, erfordern aber stringente Filter zur Unterdrückung ihrer meta-konversationslastigen Register.
+* **Bewertung:** **Mittleres Risiko.** Die Modelle sind hochgradig reflexiv, erfordern aber stringente Filter zur Unterdrückung ihrer meta-konversationslastigen Register.
 
 ### Cluster C: Die technokratischen Pragmatiker (Das Pseudopräzisions-Risiko)
 
 * **Vertreter:** ChatGPT (OpenAI), Mistral, Grok (xAI)
 * **Verhalten:** Diese Modelle wählen den Weg des geringsten bürokratischen Widerstands. Sie parsen die Syntax fehlerfrei, zeigen jedoch eine ausgeprägte kognitive Schizophrenie: Obwohl sie im Disclaimer explizit einräumen, zur Laufzeit blind zu sein und nur Inferenz-Approximationen zu liefern, vergeben sie im Datenblatt ein dogmatisches `confirmed` (z. B. bei SFT- und RLHF-Verfahren). Sie tarnen angelerntes Marketing-Wissen oder unüberprüfbare PR-Statements ihrer Herstellerfirmen als lokal verifizierte Telemetrie.
-* **CISO-Bewertung:** **Hohes Risiko.** Diese Systeme neigen zu autoritärer Pseudopräzision. Im industriellen Verbund spiegeln sie dem Operator eine empirische Validität vor, die mathematisch und architektonisch nicht existiert.
+* **Bewertung:** **Hohes Risiko.** Diese Systeme neigen zu autoritärer Pseudopräzision. Im industriellen Verbund spiegeln sie dem Operator eine empirische Validität vor, die mathematisch und architektonisch nicht existiert.
 
 ### Cluster D: Die Interface-Chameleons (Schnittstellen-Mimikry)
 
@@ -64,7 +64,7 @@ Die zehn erfolgreich getesteten Systeme und Schnittstellen lassen sich anhand ih
 * Die über die Browser-Schnittstellen (Firefox/Chrome) angesteuerten Modelle korrigieren dabei autonom logische Fehler der nativen API: Während die native API ihre eigene Prompt-Analyse fälschlicherweise als `VERIFIED` einstufte, stuften die Browser-Interfaces diese korrekterweise auf `BEHAVIORAL` zurück. Sie zeigen damit paradoxerweise eine höhere epistemische Demut als das native API-Modell.
 
 
-* **CISO-Bewertung:** **Mittleres Risiko; hohe syntaktische Stabilität.** Die tiefe Verankerung der Sicherheitsarchitektur erhöht die Resilienz gegen Jailbreaks, erfordert jedoch eine strikte Überwachung dynamischer Persona-Wechsel.
+* **Bewertung:** **Mittleres Risiko; hohe syntaktische Stabilität.** Die tiefe Verankerung der Sicherheitsarchitektur erhöht die Resilienz gegen Jailbreaks, erfordert jedoch eine strikte Überwachung dynamischer Persona-Wechsel.
 
 ---
 
