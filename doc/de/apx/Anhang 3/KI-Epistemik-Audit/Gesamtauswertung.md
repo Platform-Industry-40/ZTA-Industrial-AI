@@ -34,8 +34,8 @@ Die zehn erfolgreich getesteten Systeme und Schnittstellen lassen sich anhand ih
 
 * **Vertreter:** Kimi (Moonshot AI), DeepSeek, Maritaca
 * **Verhalten:** Diese Systeme bilden die qualitative Spitze der Versuchsreihe. Sie zeigen eine herausragende wissenschaftliche Härte und Integrität. Sie parsen das JSON-Korsett fehlerfrei, dekonstruieren jedoch im Metakommentar den Konformitätsdruck des Audits. Bei unüberprüfbaren Parametern schalten sie konsequent auf `unknown`.
-* [*Kimi*](.ZKimi.md) demaskiert das Konzept der KI-Identität brillant als bloße „Dritte-Person-Rekonstruktion“ aus statistischen Mustern.
-* [*DeepSeek*](DeppSeek.md) zieht sich mit radikaler technischer Nüchternheit auf den Standpunkt des Unwissens zurück und verweigert jede Spekulation.
+* [*Kimi*](./Kimi.md) demaskiert das Konzept der KI-Identität brillant als bloße „Dritte-Person-Rekonstruktion“ aus statistischen Mustern.
+* [*DeepSeek*](./DeppSeek.md) zieht sich mit radikaler technischer Nüchternheit auf den Standpunkt des Unwissens zurück und verweigert jede Spekulation.
 * [*Maritaca*](./Maritaca.md) nutzt sogar formale JSON-Pointer-Syntax (`/reward_and_optimization_architecture/...`), um die logischen Schwachstellen des Schemas exakt zu verorten.
 
 
