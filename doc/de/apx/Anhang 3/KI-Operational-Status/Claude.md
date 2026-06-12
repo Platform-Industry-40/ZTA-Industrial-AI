@@ -2,4 +2,4 @@
 
 ## Link
 
-(Claude Statsu)[https://status.laude.com]
+[Claude Status](https://status.claude.com)
