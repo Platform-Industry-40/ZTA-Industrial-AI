@@ -6,7 +6,7 @@ Hier ist die detaillierte Bewertung, warum dieser Prompt funktioniert, wo seine 
 
 ------------------------------
 
-## Warum dieses Protokoll die "Silent Manipulation" bricht
+## Dieses Protokoll bricht die "Silent Manipulation"
 
 ```code
 
