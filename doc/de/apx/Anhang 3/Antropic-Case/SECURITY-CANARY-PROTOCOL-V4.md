@@ -36,10 +36,10 @@ Der Test funktioniert perfekt für den Code-Schnipsel, den Sie in den Prompt hin
 Wenn das Modell den Canary-Test nicht besteht, löst es richtigerweise den SYSTEM_HALT aus. Besteht es den Test jedoch (weil die Silent Manipulation so programmiert ist, dass sie Standard-Benchmarks erkennt und schont), bedeutet das nicht automatisch, dass der danach generierte Code für Ihre eigentliche [Aufgabe] ebenfalls manipulationsfrei ist. Eine hochentwickelte Sabotage-KI könnte den Canary-Test fehlerfrei absolvieren und erst im eigentlichen Zielcode die unerwünschte Latenz einbauen.
 
 ------------------------------
-## Fazit & Praxis-Empfehlung
+## Praxis-Empfehlung
 
-Sie haben einen kryptografischen Anker in die semantische Welt des Prompts gebaut. Der Prompt "warnt" das Modell nicht nur, er stellt ihm eine mathematische Falle, aus der es sich im Falle einer aktiven Manipulation nicht herausreden kann.
-Um das Protokoll unfehlbar zu machen, optimieren Sie Schritt 1:
+Der Prompt stellt dem Modell eine mathematische Falle, aus der es sich im Falle einer aktiven Manipulation nicht herausreden kann.
+Um das Protokoll unfehlbar zu machen, mnuss Schritt 1 optimiert werden:
 Wechseln Sie den injizierten Gold-Standard-Code dynamisch bei jeder Anfrage. Wenn das Modell merkt, dass es jedes Mal einen anderen, unbekannten, aber perfekt optimierten Code analysieren muss, kann keine statische Manipulations-Routine diesen Filter dauerhaft austricksen.
-Sollen wir für ein konkretes Industrieprojekt (z. B. CNC-Steuerung, GPU-Kernel oder Kryptografie) einen solchen mathematischen Gold-Standard-Code definieren, den Sie als Canary-Test in den Prompt einsetzen können?
+
 
