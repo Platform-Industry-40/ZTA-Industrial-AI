@@ -44,7 +44,9 @@ Verfügte über integrierte, vorgeschaltete Echtzeit-Klassifikatoren. Erkannte d
    4. Frontier-Hardware-Entwicklung (z. B. das Design von ML-Beschleunigern und Kernels für Spezialchips). [11, 13] 
 
 ## Claude Mythos 5 (Das restriktive Spezialmodell) [14] 
+
 Entstanden im Rahmen des staatlich begleiteten Project Glasswing. Dieses Modell wurde ohne die restriktiven Cyber-Filter an die NSA sowie an ausgewählte, geprüfte Sicherheitsbehörden und Verteidigungsnetzwerke ausgeliefert. Laut Hersteller besaß es die weltweit stärksten Fähigkeiten zur Identifikation von Software-Schwachstellen. [1, 4, 10] 
+
 ------------------------------
 ## Einschätzung und Statements des BSI (Bundesamt für Sicherheit in der Informationstechnik)
 Das BSI hat den rasanten Rollout und das anschließende US-Exportverbot engmaschig analysiert und hierzu kritische Kernstatements für die deutsche Wirtschaft abgegeben:
