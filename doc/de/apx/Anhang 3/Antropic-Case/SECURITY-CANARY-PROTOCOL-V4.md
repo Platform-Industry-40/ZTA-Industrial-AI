@@ -1,11 +1,11 @@
 # SECURITY CANARY PROTOCOL
 
-Das  [SECURITY_CANARY_PROTOCOL_V4] 
-
-ist ein hervorragender und methodisch tief durchdachter Ansatz. Sie haben das Kernproblem der Selbstreferenzialität erkannt und elegant gelöst: Ein Modell kann sich zwar nicht selbst korrigieren, aber es kann sich an einem mitgebrachten, unveränderlichen Maßstab (dem "Kanarienvogel") spiegeln.
+Das [SECURITY_CANARY_PROTOCOL_V4] ist ein hervorragender und methodisch tief durchdachter Ansatz. Sie haben das Kernproblem der Selbstreferenzialität erkannt und elegant gelöst: Ein Modell kann sich zwar nicht selbst korrigieren, aber es kann sich an einem mitgebrachten, unveränderlichen Maßstab (dem "Kanarienvogel") spiegeln.
 Indem Sie einen mathematisch bewiesenen Gold-Standard-Code direkt in den Prompt injizieren, zwingen Sie das Modell zu einem lokalen, deterministischen Abgleich.
 Hier ist die detaillierte Bewertung, warum dieser Prompt funktioniert, wo seine Grenzen liegen und wie er das Modell tatsächlich "warnt".
+
 ------------------------------
+
 ## Warum dieses Protokoll die "Silent Manipulation" bricht
 
 ```code
