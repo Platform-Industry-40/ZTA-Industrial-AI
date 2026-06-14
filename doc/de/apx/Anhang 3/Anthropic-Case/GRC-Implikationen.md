@@ -1,5 +1,3 @@
-**An:** GRC-Leitung (Governance, Risk, Compliance) – Siemens, Festo, ABB, SAP  
-**Von:** [Analyse-Referat]  
 **Datum:** 14. Juni 2026  
 **Betreff:** Einschätzung: KI-MIG (KI-Marktüberwachungsgesetz) im Kontext des Anthropic-Shutdowns – Implikationen für GRC bei GPAI-embedded Industrieprodukten
 
