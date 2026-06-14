@@ -23,3 +23,19 @@
 | **Art. 3 Änderung SGB I** | Klarstellung, dass KI-VO neben DSGVO für Schutz bei Verarbeitung personenbezogener Daten gilt. | §35 Abs. 2 Satz 1 SGB I wird ersetzt. | DSGVO und KI-VO werden als unmittelbar geltende Rechtsvorschriften zum Schutz bei der Verarbeitung personenbezogener Daten ausdrücklich genannt. | Ab Inkrafttreten des Gesetzes. |
 | **Art. 4 Änderung FinDAG** | Kostenerstattung und Kostenermittlung für BaFin als Marktüberwachungsbehörde nach KI-VO. | §15 und §16b FinDAG werden geändert. | §15 Abs. 1: Prüfhandlungen und Maßnahmen nach KI-MIG werden in den Katalog der erstattungsfähigen Maßnahmen aufgenommen (neue Nr. 14). §16b: Kosten aus KI-VO-Zuständigkeit werden Aufgabenbereichen Banken/Finanzdienstleistungen bzw. Versicherungen zugeordnet. Kosten für Heranziehung dritter Personen als Verwaltungshelfer werden erstattungsfähig. | Ab Inkrafttreten des Gesetzes. |
 | **Art. 5 Inkrafttreten** | Schnelles Inkrafttreten erforderlich, da Kapitel I und II KI-VO bereits ab 2.2.2025 gelten und Behörden bis 2.8.2025 benannt sein müssen. | Gesetz tritt am Tag nach Verkündung in Kraft. | Keine Übergangsfrist; sofortige Anwendbarkeit. | Tag nach Verkündung (voraussichtlich vor 2.8.2025). |
+
+
+---
+
+| Aspekt                  | Befund                                                                                                                                                                          |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lead-Behörde**        | BNetzA fungiert als Dreh- und Angelpunkt: Marktüberwachungsbehörde, notifizierende Behörde, zentrale Anlaufstelle, zentrale Beschwerdestelle, KoKIVO, KI-Reallabor, UKIM-Träger |
+| **Sektorale Ausnahmen** | BaFin (Finanzsektor, 25 Institutstypen), sektorale Produktbehörden (Anhang I Abschnitt A), BSI (übergangsweise CRA-Schnittstelle)                                               |
+| **Unabhängigkeit**      | UKIM völlig unabhängig innerhalb der BNetzA; keine Weisungsbefugnis; Mitglieder vom Bundespräsidenten ernannt                                                                   |
+| **Bußgeld**             | OWiG-Regime, aber §17 und §30 Abs. 1 OWiG ausgeschlossen (europäisches Sanktionenrecht abschließend); keine Geldbußen gegen öffentliche Stellen                                 |
+| **Innovation**          | KI-Reallabor bis 2.8.2026; KI-Service Desk; Vorrang für KMU/Start-ups; 30-Tage-Genehmigungsfiktion für Realbedingungstests                                                      |
+| **Termin-Kaskade**      | 2.2.2025 (KI-VO Kapitel I+II) → 2.8.2025 (Behördenbenennung) → 2.8.2026 (Reallabor + KI-VO Vollanwendung) → 2.8.2027 (weitere Meldepflichten)                                   |
+
+
+
+
