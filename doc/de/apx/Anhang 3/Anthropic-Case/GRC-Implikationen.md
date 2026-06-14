@@ -5,7 +5,7 @@
 
 ## 1. Kontext: Das Zusammenspiel von KI-MIG und US-Exportkontrolle
 
-Das **KI-Marktüberwachungsgesetz (KI-MIG)** wurde am **11. Juni 2026** vom Bundestag beschlossen. Unterstellt man die **Bundesrat-Zustimmung** (erwartet für Q3/2026), tritt es voraussichtlich Anfang 2027 in Kraft. Die **Bundesnetzagentur (BNetzA)** wird zur zentralen Marktüberwachungsbehörde.
+Das [**KI-Marktüberwachungsgesetz (KI-MIG)**](https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung) wurde am **11. Juni 2026** vom Bundestag beschlossen. Unterstellt man die **Bundesrat-Zustimmung** (erwartet für Q3/2026), tritt es voraussichtlich Anfang 2027 in Kraft. Die **Bundesnetzagentur (BNetzA)** wird zur zentralen Marktüberwachungsbehörde.
 
 Der zeitliche Zusammenhang mit dem **Anthropic-Shutdown vom 12. Juni 2026** ist kein Zufall: Er offenbart die **Lücke**, die das KI-MIG nicht schließt – und die GRC-Teams adressieren müssen.
 
