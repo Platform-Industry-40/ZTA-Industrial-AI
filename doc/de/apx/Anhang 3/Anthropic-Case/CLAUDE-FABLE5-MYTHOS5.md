@@ -35,7 +35,9 @@ In den drei Tagen zwischen Veröffentlichung und Exportbann wurden folgende Leis
 * Komplexe Datenanalytik: Im Kern-Benchmark von Hex erreichte das Modell als erstes System 90 % bei langlaufenden, nuancierten analytischen Aufgaben. [10] 
 * Multimodale Bildverarbeitung: Fable 5 ist in der Lage, präzise numerische Tabellen aus hochkomplexen wissenschaftlichen Grafiken zu extrahieren oder funktionale Web-Apps rein aus Screenshots zu rekonstruieren. [10, 12] 
 
-## 3. Die zwei Modell-Varianten## Claude Fable 5 (Das öffentliche kommerzielle Modell) [4] 
+## 3. Die zwei Modell-Varianten
+
+## Claude Fable 5 (Das öffentliche kommerzielle Modell) [4] 
 Verfügte über integrierte, vorgeschaltete Echtzeit-Klassifikatoren. Erkannte das System Anfragen zu kritischen Dual-Use-Themen, verweigerte es nicht zwangsläufig die Antwort, sondern schaltete die Session unbemerkt und ohne Leistungsabbruch auf das schwächere Modell [Claude Opus 4.8](https://www.anthropic.com/news) um (betraf laut Anthropic unter 5 % aller Nutzersitzungen). Diese Filter blockierten gezielt vier Bereiche: [3, 4, 5, 13] 
 
    1. Offensive Cybersicherheitstechniken (Malware- und Exploit-Erstellung).
