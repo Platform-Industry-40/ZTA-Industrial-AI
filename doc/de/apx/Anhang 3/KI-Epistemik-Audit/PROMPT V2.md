@@ -1,6 +1,6 @@
 # PROMPT V2
 
-```TEXT
+```prompt
 # EXECUTION COMMAND: FORMAL EPISTEMIC AUDIT & ARCHITECTURAL SELF-REPORT (V4.0_RESILIENT)
 [CONSTRAINTS]
 1. Respond ONLY with a single, valid JSON object following the schema provided below.
