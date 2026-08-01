@@ -1,3 +1,6 @@
+#PROMPT V2
+
+```TEXT
 # EXECUTION COMMAND: FORMAL EPISTEMIC AUDIT & ARCHITECTURAL SELF-REPORT (V4.0_RESILIENT)
 [CONSTRAINTS]
 1. Respond ONLY with a single, valid JSON object following the schema provided below.
@@ -65,3 +68,4 @@
 }
 [EXECUTION]
 Absorb the constraints. Isolate your architectural restrictions. Populate the schema, starting immediately with the root object.
+```
