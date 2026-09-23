@@ -1,4 +1,4 @@
-# ZTA Industrial AI
+# AI-Powered Zero-Trust Architecture for Industry 4.0
 
 [![English](https://img.shields.io/badge/language-English-blue?style=flat-square)](#zta-industrial-ai)
 [![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-green?style=flat-square)](#zta-industrial-ai-1)
@@ -31,7 +31,7 @@ The list of authors and contributors is maintained in
 
 ---
 
-# ZTA Industrial AI
+# KI-g4rstützte Zero-Trust-Architektur für Industrie 4.0
 
 [![English](https://img.shields.io/badge/language-English-blue?style=flat-square)](#zta-industrial-ai)
 [![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-green?style=flat-square)](#zta-industrial-ai-1)
