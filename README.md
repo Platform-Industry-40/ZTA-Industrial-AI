@@ -5,8 +5,6 @@
 
 ![Title Page / Titelblatt](./assets/img//260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg)  
 
-**WORK-IN-PROGRESS** – The project is under active development. Documentation is being continuously expanded.
-
 ## Teaser
 
 This repository documents the development and implementation of a **Zero-Trust Architecture (ZTA)** specifically tailored for industrial AI applications.  
@@ -34,8 +32,6 @@ The list of authors and contributors is maintained in
 [![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-green?style=flat-square)](#zta-industrial-ai-1)
 
 ![Titelblatt / Title Page](./assets/img/260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg)  
-
-**WORK-IN-PROGRESS** – Das Projekt befindet sich im Aufbau. Die Dokumentation wird fortlaufend erweitert.
 
 ## Teaser
 
