@@ -7,7 +7,6 @@
 **Zero-Trust-Architektur für industrielle KI-Systeme**
 
 ![Title Page / Titelblatt](./assets/img//260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg)  
-*(Placeholder – will be replaced by the actual cover image of the PDF)*
 
 **WORK-IN-PROGRESS** – The project is under active development. Documentation is being continuously expanded.
 
@@ -40,9 +39,7 @@ The list of authors and contributors is maintained in
 **Zero-Trust Architecture for Industrial AI Systems**  
 **Zero-Trust-Architektur für industrielle KI-Systeme**
 
-![Titelblatt / Title Page](./assets/img/260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg
-)  
-*(Platzhalter – wird durch reales Titelblatt-Bild des PDFs ersetzt)*
+![Titelblatt / Title Page](./assets/img/260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg)  
 
 **WORK-IN-PROGRESS** – Das Projekt befindet sich im Aufbau. Die Dokumentation wird fortlaufend erweitert.
 
