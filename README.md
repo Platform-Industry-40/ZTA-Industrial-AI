@@ -3,9 +3,6 @@
 [![English](https://img.shields.io/badge/language-English-blue?style=flat-square)](#zta-industrial-ai)
 [![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-green?style=flat-square)](#zta-industrial-ai-1)
 
-**AI-Powered Zero-Trust Architecture for Industry 4.0**  
-**KI-g4rstützte Zero-Trust-Architektur für Industrie 4.0**
-
 ![Title Page / Titelblatt](./assets/img//260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg)  
 
 **WORK-IN-PROGRESS** – The project is under active development. Documentation is being continuously expanded.
@@ -35,9 +32,6 @@ The list of authors and contributors is maintained in
 
 [![English](https://img.shields.io/badge/language-English-blue?style=flat-square)](#zta-industrial-ai)
 [![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-green?style=flat-square)](#zta-industrial-ai-1)
-
-**AI-Powered Zero-Trust Architecture for Industry 4.0**  
-**KI-g4rstützte Zero-Trust-Architektur für Industrie 4.0**
 
 ![Titelblatt / Title Page](./assets/img/260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg)  
 
