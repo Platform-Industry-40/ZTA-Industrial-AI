@@ -40,7 +40,8 @@ The list of authors and contributors is maintained in
 **Zero-Trust Architecture for Industrial AI Systems**  
 **Zero-Trust-Architektur für industrielle KI-Systeme**
 
-![Titelblatt / Title Page](./assets/img//6250d19c-3a78-4708-8704-74900f903bd1.jpg)  
+![Titelblatt / Title Page](./assets/img/260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg
+)  
 *(Platzhalter – wird durch reales Titelblatt-Bild des PDFs ersetzt)*
 
 **WORK-IN-PROGRESS** – Das Projekt befindet sich im Aufbau. Die Dokumentation wird fortlaufend erweitert.
