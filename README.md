@@ -4,7 +4,7 @@
 [![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-green?style=flat-square)](#zta-industrial-ai-1)
 
 **Zero-Trust Architecture for Industrial AI Systems**  
-**Zero-Trust-Architektur für industrielle KI-Systeme**
+**KI-g4rstützte Zero-Trust-Architektur für industrielle**
 
 ![Title Page / Titelblatt](./assets/img//260921_PI40_KI_fuer_Industrie_4_0_Security_Titel.jpg)  
 
